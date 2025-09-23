@@ -15,24 +15,59 @@ Soy un **desarrollador Full Stack apasionado** por crear **experiencias digitale
 
 💡 **Mi enfoque**: Combino código limpio, diseño elegante y funcionalidad avanzada para crear productos que realmente impacten.
 
-```typescript
-const deibyd: Developer = {
-  location: "Colombia 🇨🇴",
-  experience: "3+ años desarrollando soluciones web",
-  currentFocus: ["React Ecosystem", "TypeScript", "Real-time Apps", "Communication APIs"],
-  specialties: [
-    "Sistemas de Autenticación Avanzada",
-    "Integración WhatsApp Business API",
-    "Mobile-First Responsive Design",
-    "Real-time Data Synchronization",
-    "Premium UI/UX Implementation"
-  ],
-  currentProject: "Barbería Elite - Sistema Premium de Gestión",
-  achievements: ["SMS/WhatsApp Integration", "PWA Implementation", "Supabase Expert"],
-  lookingFor: "Proyectos desafiantes & oportunidades de crecimiento",
-  motto: "Código elegante, experiencias excepcionales"
-};
+<div align="center">
+
+### 🌍 **Ubicación & Experiencia**
 ```
+📍 Colombia 🇨🇴  |  💼 3+ años desarrollando soluciones web  |  🚀 Full Stack Expert
+```
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🎯 **Especialidades**
+```typescript
+🔐 Autenticación Avanzada
+📱 WhatsApp Business API
+🎨 Mobile-First Design
+⚡ Real-time Sync
+💎 Premium UI/UX
+```
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 **Stack Principal**
+```typescript
+⚛️ React Ecosystem
+📘 TypeScript Expert  
+🔄 Real-time Apps
+📡 Communication APIs
+🎯 Modern Architecture
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💫 **Proyecto Actual**
+```diff
++ 🏆 Barbería Elite - Sistema Premium de Gestión
++ ✨ SMS/WhatsApp Integration | PWA Implementation | Supabase Expert
+```
+
+### 🎯 **Objetivo**
+```yaml
+lookingFor: "Proyectos desafiantes & oportunidades de crecimiento"
+motto: "Código elegante, experiencias excepcionales ✨"
+```
+
+</div>
 
 ---
 
@@ -138,34 +173,70 @@ PWA: Service Worker + Offline Support
 
 ## 🎯 **Especialidades**
 
-```typescript
-interface MySkills {
-  frontend: {
-    frameworks: ['React', 'Next.js'];
-    languages: ['TypeScript', 'JavaScript'];
-    styling: ['Tailwind CSS', 'CSS3', 'Responsive Design'];
-    tools: ['Vite', 'Webpack', 'ESLint'];
-  };
-  
-  backend: {
-    databases: ['PostgreSQL', 'Supabase'];
-    auth: ['JWT', 'Row Level Security', 'SMS Verification'];
-    apis: ['REST', 'Real-time Subscriptions'];
-  };
-  
-  integrations: {
-    messaging: ['WhatsApp Business API', 'Twilio SMS'];
-    notifications: ['Push Notifications', 'Service Workers'];
-    payments: ['Stripe', 'PayPal']; // Ready to implement
-  };
-  
-  architecture: {
-    patterns: ['Context API', 'Custom Hooks', 'Service Layer'];
-    responsive: ['Mobile-First', 'Cross-browser', 'PWA'];
-    optimization: ['Performance', 'SEO', 'Accessibility'];
-  };
+<div align="center">
+
+## 🎯 **Arquitectura de Habilidades**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎨 **Frontend Mastery**
+```javascript
+⚛️ React & Next.js
+📘 TypeScript Pro
+🎨 Tailwind CSS Expert
+⚡ Vite & Modern Tools
+📱 Responsive Design
+```
+
+### 🔧 **Backend & Database**
+```sql
+🐘 PostgreSQL Advanced
+🚀 Supabase Expert
+🔐 JWT & RLS Security
+📡 Real-time APIs
+🔄 SMS Verification
+```
+
+</td>
+<td width="50%">
+
+### 🌐 **Integraciones**
+```yaml
+📱 WhatsApp Business API
+📞 Twilio SMS
+🔔 Push Notifications
+⚙️ Service Workers
+💳 Payment Systems (Ready)
+```
+
+### 🏗️ **Arquitectura**
+```json
+{
+  "patterns": ["Context API", "Custom Hooks"],
+  "responsive": ["Mobile-First", "PWA"],
+  "optimization": ["Performance", "SEO"]
 }
 ```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### ⚡ **Performance Metrics**
+```diff
++ 🚀 Aplicaciones que cargan en < 2 segundos
++ 📱 100% Mobile-First approach
++ 🔒 Seguridad avanzada implementada
++ ⚡ Real-time sync perfecto
+```
+
+</div>
 
 ---
 
@@ -240,16 +311,47 @@ interface MySkills {
 
 ### 🎯 **¿Por qué trabajar conmigo?**
 
-```typescript
-const whyChooseMe = {
-  codeQuality: "Clean, maintainable, well-documented code",
-  communication: "Fluent Spanish/English, clear project updates",
-  delivery: "On-time delivery with attention to detail",
-  techStack: "Modern technologies, best practices",
-  problemSolving: "Creative solutions for complex challenges",
-  availability: "Flexible hours, collaborative approach"
-};
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 💎 **Calidad**
+```yaml
+🔧 Clean Code
+📚 Well-documented  
+🧪 Best Practices
+⚡ High Performance
 ```
+
+</td>
+<td align="center" width="33%">
+
+### 🗣️ **Comunicación**
+```yaml
+🇪🇸 Español Nativo
+🇺🇸 English Fluent
+📊 Clear Updates
+🤝 Collaborative
+```
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 **Entrega**
+```yaml
+⏰ On-time Delivery
+🎯 Attention to Detail
+🔄 Flexible Hours
+💡 Creative Solutions
+```
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
