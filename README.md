@@ -1,160 +1,54 @@
-# 👋 ¡Hola! Soy **Deibyd** 
-### 🚀 Full Stack Developer | React Expert | Arquitecto de Soluciones Digitales
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2B+TypeScript+Specialist;Real-time+%26+Mobile-First+Apps;WhatsApp+%2B+SMS+Integration+Expert;Premium+UI%2FUX+Designer;Supabase+%26+PostgreSQL+Pro)](https://git.io/typing-svg)
+
+# 👋 **Deibyd**
+## 🚀 Full Stack Developer | React Expert
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=React+%2B+TypeScript;Real-time+Applications;Mobile-First+Design;Premium+Experiences)](https://git.io/typing-svg)
+
+**📍 Colombia** • **💼 3+ años** • **🎯 Mobile-First Expert**
 
 </div>
 
 ---
 
-## 🎯 **Sobre Mí**
-
-Soy un **desarrollador Full Stack apasionado** por crear **experiencias digitales premium** que transforman ideas en soluciones reales. Me especializo en aplicaciones web modernas, sistemas de comunicación multi-canal y arquitecturas escalables con enfoque mobile-first.
-
-💡 **Mi enfoque**: Combino código limpio, diseño elegante y funcionalidad avanzada para crear productos que realmente impacten.
-
 <div align="center">
 
-### 🌍 **Ubicación & Experiencia**
-```
-📍 Colombia 🇨🇴  |  💼 3+ años desarrollando soluciones web  |  🚀 Full Stack Expert
-```
+## 🛠️ **Stack**
 
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🎯 **Especialidades**
-```typescript
-🔐 Autenticación Avanzada
-📱 WhatsApp Business API
-🎨 Mobile-First Design
-⚡ Real-time Sync
-💎 Premium UI/UX
-```
-
-</td>
-<td align="center" width="50%">
-
-### 🚀 **Stack Principal**
-```typescript
-⚛️ React Ecosystem
-📘 TypeScript Expert  
-🔄 Real-time Apps
-📡 Communication APIs
-🎯 Modern Architecture
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 💫 **Proyecto Actual**
-```diff
-+ 🏆 Barbería Elite - Sistema Premium de Gestión
-+ ✨ SMS/WhatsApp Integration | PWA Implementation | Supabase Expert
-```
-
-### 🎯 **Objetivo**
-```yaml
-lookingFor: "Proyectos desafiantes & oportunidades de crecimiento"
-motto: "Código elegante, experiencias excepcionales ✨"
-```
-
-</div>
-
----
-
-## 🛠️ **Tech Stack**
-
-### **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend & Database**
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### **APIs & Integrations**
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
 
-### **Tools & Deployment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+**⚛️ React + TypeScript** • **🚀 Supabase** • **📱 Mobile-First** • **🎨 Premium UI**
+
+</div>
 
 ---
 
-## 🌟 **Proyecto Destacado: Barbería Elite**
-
-### 💎 **Sistema Premium de Gestión de Citas - En Vivo en `localhost:5173`**
-
 <div align="center">
-  <img src="https://via.placeholder.com/600x300/D4AF37/000000?text=🚀+Barberia+Elite+LIVE+Demo" alt="Barbería Elite Demo" style="border-radius: 10px; margin: 20px 0;"/>
-  
-  **🔴 LIVE DEMO** • **Desarrollado desde cero** • **100% Funcional**
+
+## 🌟 **Proyecto Destacado**
+
+### 💎 **Barbería Elite - Sistema Premium**
+
+<img src="https://via.placeholder.com/500x250/D4AF37/000000?text=🚀+LIVE+DEMO" alt="Barbería Elite" style="border-radius: 10px;"/>
+
+**🔴 En vivo** • **React + TypeScript** • **Real-time**
+
 </div>
 
-### **🏆 Logros Técnicos Destacados:**
-
-- **🎨 Diseño Premium Personalizado** - Tema dorado elegante con +1300 líneas CSS
-- **📱 Mobile-First Architecture** - Responsive perfecto en todos los dispositivos
-- **⚡ Real-time Sync** - Supabase con Row Level Security (RLS)
-- **🔐 Autenticación Multi-factor** - Email + SMS + WhatsApp verification
-- **📲 Triple Canal de Comunicación** - WhatsApp Business API + Twilio + Push
-- **👥 Sistema de Roles Avanzado** - Admin/Cliente con permisos granulares
-- **🗓️ Motor de Reservas Inteligente** - Gestión completa de disponibilidad
-
-### **🛠️ Arquitectura Técnica:**
-```typescript
-// Stack Principal
-Frontend: React 18 + TypeScript + Vite
-Styling: Tailwind CSS + Custom Theme (1300+ líneas)
-State: Context API + Custom Hooks
-Routing: React Router v7
-
-// Backend & Database
-Database: Supabase (PostgreSQL)
-Auth: Supabase Auth + Custom SMS
-Real-time: Supabase Subscriptions
-Security: Row Level Security (RLS)
-
-// Integraciones Avanzadas
-SMS: Twilio API + WhatsApp Business API
-Notifications: Web Push API + Service Workers
-PWA: Service Worker + Offline Support
+### **✨ Características Clave**
+```diff
++ 🎨 Diseño premium con tema dorado personalizado
++ 📱 Mobile-first + responsive perfecto  
++ ⚡ Real-time sync con Supabase
++ 🔐 Auth avanzada + SMS/WhatsApp
++ 📊 Dashboard admin + cliente
 ```
 
-### **🚀 Funcionalidades Implementadas:**
-| Feature | Status | Descripción |
-|---------|--------|-------------|
-| ✅ **Auth System** | Live | Login/Register + SMS Recovery |
-| ✅ **Admin Dashboard** | Live | Gestión completa de citas y clientes |
-| ✅ **Client Portal** | Live | Reservas + historial personal |
-| ✅ **SMS Integration** | Live | Códigos de verificación automáticos |
-| ✅ **WhatsApp API** | Live | Notificaciones por WhatsApp Business |
-| ✅ **Real-time Sync** | Live | Actualizaciones instantáneas |
-| ✅ **Mobile Responsive** | Live | Optimización completa móvil |
-| ✅ **Push Notifications** | Live | Notificaciones web nativas |
-
-### **📊 Métricas del Proyecto:**
-- **📁 Archivos**: 70+ componentes y servicios
-- **📝 Líneas de código**: 15,000+ líneas
-- **🎨 CSS personalizado**: 1,371 líneas de tema premium
-- **⚡ Performance**: Carga < 2s, Mobile-optimized
-- **🔧 Arquitectura**: Modular, escalable, mantenible
+**🛠️ Stack**: React 18 • TypeScript • Supabase • Tailwind • WhatsApp API
 
 ---
 
