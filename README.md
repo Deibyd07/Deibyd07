@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with Glitch Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=DEIBYD&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20React%20Expert&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=DEIBYD&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=50"/>
 
 <!-- Matrix-style typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00F5FF&background=0D1117&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3E+Initializing+developer.exe...;%3E+Loading+React+%2B+TypeScript+modules...;%3E+Establishing+real-time+connections...;%3E+System+ready.+Welcome+to+the+matrix.)](https://git.io/typing-svg)
@@ -21,7 +21,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                        SYSTEM INFORMATION                        ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Location: Colombia 🇨🇴          Experience: 3+ Years Active    ║
+║  Location: Colombia 🇨🇴          Experience: 1+ Years Active    ║
 ║  Status: Online 🟢               Specialization: Full Stack     ║
 ║  Mode: Mobile-First              Architecture: Scalable         ║
 ╚══════════════════════════════════════════════════════════════════╝
