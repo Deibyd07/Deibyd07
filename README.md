@@ -21,9 +21,11 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║                        SYSTEM INFORMATION                        ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Location: Colombia 🇨🇴          Experience: 1+ Years Active    ║
-║  Status: Online 🟢               Specialization: Full Stack     ║
-║  Mode: Mobile-First              Architecture: Scalable         ║
+║                      Location: Colombia 🇨🇴                       ║
+║                        Status: Online 🟢                        ║
+║                     Architecture: Scalable                       ║
+║                   Experience: 1+ Years Active                    ║
+    ║                   Specialization: Full Stack                     ║    
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -199,7 +201,7 @@ graph TD
 
 ```bash
 $ whoami
-dealcag0723@gmial.com:~$ Developer | React | Mobile-First 
+dealcag0723@gmail.com:~$ Developer | React | Mobile-First 
 
 $ uptime
 System online: 1+ years | Projects deployed: 10+ | Bugs eliminated: ∞
