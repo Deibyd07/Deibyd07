@@ -199,17 +199,10 @@ graph TD
 
 ```bash
 $ whoami
-deibyd@colombia:~$ Full Stack Developer | React Expert | Mobile-First Architect
-
-$ cat /proc/skills
-- React + TypeScript: Advanced
-- Real-time Systems: Expert  
-- Mobile-First Design: Master
-- API Integration: Professional
-- Performance Optimization: Specialist
+dealcag0723@gmial.com:~$ Developer | React | Mobile-First 
 
 $ uptime
-System online: 3+ years | Projects deployed: 15+ | Bugs eliminated: ∞
+System online: 1+ years | Projects deployed: 10+ | Bugs eliminated: ∞
 
 $ status
 💚 Available for hire | 🚀 Ready for challenges | ⚡ Response time: Lightning fast
