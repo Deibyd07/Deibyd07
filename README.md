@@ -18,15 +18,15 @@
 <div align="center">
 
 ```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║                        SYSTEM INFORMATION                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║                      Location: Colombia 🇨🇴                       ║
-║                        Status: Online 🟢                        ║
-║                     Architecture: Scalable                       ║
-║                   Experience: 1+ Years Active                    ║
-    ║                   Specialization: Full Stack                     ║    
-╚══════════════════════════════════════════════════════════════════╝
+       ╔══════════════════════════════════════════════════════════════════╗
+       ║                        SYSTEM INFORMATION                        ║
+       ╠══════════════════════════════════════════════════════════════════╣
+       ║                      Location: Colombia 🇨🇴                       ║
+       ║                        Status: Online 🟢                        ║
+       ║                     Architecture: Scalable                       ║
+       ║                   Experience: 1+ Years Active                    ║
+       ║                   Specialization: Full Stack                     ║
+       ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
