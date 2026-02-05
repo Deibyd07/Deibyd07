@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Applications;Specialized+in+Real-Time+Systems)](https://git.io/typing-svg)
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deibyd07&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7"/>
-
 </div>
 
 ---
@@ -55,10 +51,6 @@ Especializado en **React**, **TypeScript**, **Node.js** y **Supabase**, con enfo
 ## 📊 Estadísticas de GitHub
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deibyd07&theme=react-dark&bg_color=1F222E&color=1BFFFF&line=1BFFFF&point=FFFFFF&area=true&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Deibyd07&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 
 <br>
 
