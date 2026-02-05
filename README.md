@@ -4,6 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Applications;Specialized+in+Real-Time+Systems)](https://git.io/typing-svg)
 
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Deibyd07&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7"/>
+
 </div>
 
 ---
@@ -54,7 +58,7 @@ Especializado en **React**, **TypeScript**, **Node.js** y **Supabase**, con enfo
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Deibyd07&theme=algolia&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Deibyd07&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 
 <br>
 
@@ -187,7 +191,7 @@ Especializado en **React**, **TypeScript**, **Node.js** y **Supabase**, con enfo
 
 ### Conectemos para discutir proyectos y oportunidades
 
-<a href="https://linkedin.com/in/deibyd07">
+<a href="https://www.linkedin.com/in/deibyd-alexander-castillo-aguirre-25491a3a0/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:deibyd07@gmail.com">
