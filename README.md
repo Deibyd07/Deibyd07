@@ -1,12 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e3192,50:1bffff,100:2e3192&height=180&section=header&text=Deibyd%20Alcalá&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e3192,50:1bffff,100:2e3192&height=180&section=header&text=Deibyd%20Castillo&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=1BFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Applications;Specialized+in+Real-Time+Systems)](https://git.io/typing-svg)
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Deibyd07&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 </div>
 
