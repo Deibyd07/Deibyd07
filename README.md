@@ -14,7 +14,7 @@
 
 **Full Stack Developer** con más de 1 año de experiencia desarrollando aplicaciones web escalables y sistemas en tiempo real.
 
-Especializado en **React**, **TypeScript**, **Node.js** y **Supabase**, con enfoque en arquitecturas modernas y prácticas de desarrollo profesional.
+Con enfoque en arquitecturas modernas y prácticas de desarrollo profesional.
 
 📍 **Colombia** | 💼 **Disponible para proyectos** | 🎯 **Enfoque en calidad y rendimiento**
 
