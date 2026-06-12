@@ -23,7 +23,7 @@ desde sistemas de agendamiento con IA hasta plataformas de gestión empresarial.
 
 ---
 
-## 🛠️ Stack
+##  Stack
 
 ### Frontend
 <div align="center">
@@ -42,7 +42,7 @@ desde sistemas de agendamiento con IA hasta plataformas de gestión empresarial.
 
 ---
 
-## 🚀 Proyectos destacados
+##  Proyectos destacados
 
 <table>
 <tr>
@@ -83,7 +83,7 @@ Sistema empresarial para gestión portuaria de vehículos de alto valor. Recepci
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Sistema empresarial para gestión portuaria de vehículos de alto valor. Recepci
 
 ---
 
-## 📬 Contacto
+##  Contacto
 
 <div align="center">
 
