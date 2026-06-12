@@ -83,15 +83,14 @@ Sistema empresarial para gestión portuaria de vehículos de alto valor. Recepci
 
 ---
 
-## 🏆 Trofeos
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Deibyd07&theme=algolia&no-bg=true&no-frame=true&column=6&margin-w=8&margin-h=8"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deibyd07&show_icons=true&theme=algolia&hide_border=true&bg_color=0d0e12&title_color=1BFFFF&icon_color=1BFFFF&text_color=ffffff"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deibyd07&layout=compact&theme=algolia&hide_border=true&bg_color=0d0e12&title_color=1BFFFF&text_color=ffffff"/>
+
 </div>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Deibyd07&theme=react-dark&bg_color=0d0e12&color=1BFFFF&line=1BFFFF&point=FFFFFF&area=true&hide_border=true"/>
