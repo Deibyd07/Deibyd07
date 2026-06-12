@@ -25,19 +25,20 @@ desde sistemas de agendamiento con IA hasta plataformas de gestión empresarial.
 
 ##  Stack
 
-### Frontend
 <div align="center">
+
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css&perline=7&theme=dark"/>
-</div>
 
-### Backend & Base de datos
-<div align="center">
+**Backend & Base de datos**
+
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mongodb,redis,python,java&perline=7&theme=dark"/>
-</div>
 
-### Herramientas & DevOps
-<div align="center">
+**Herramientas & DevOps**
+
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,postman,figma&perline=7&theme=dark"/>
+
 </div>
 
 ---
